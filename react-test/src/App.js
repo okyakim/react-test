@@ -31,7 +31,7 @@ function App() {
         </a>
         <Name1 name={name}></Name1>
         <a className="App-link" href="http://naver.com">{name}</a>
-        <button onClick={onClick}>이름변경</button>
+        <button onClick={onClick}>Change Name</button>
       </header>
     </div>
   );
